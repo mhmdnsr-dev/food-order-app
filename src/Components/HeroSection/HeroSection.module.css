@@ -10,7 +10,7 @@
 
 .description {
   border-radius: 20px;
-  width: 75vw;
+  width: 50vw;
   margin: 0 auto;
   padding: 3rem 2rem;
   text-align: center;
@@ -27,4 +27,10 @@
   font-size: 1.6rem;
   color: white;
   line-height: 1.7;
+}
+
+@media screen and (max-width: 550px) {
+  .description {
+    width: 75vw;
+  }
 }

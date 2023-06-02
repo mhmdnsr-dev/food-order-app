@@ -123,3 +123,38 @@
   margin-bottom: 5rem;
   color: #444;
 }
+
+@media screen and (max-width: 400px) {
+  .container-cart {
+    width: 90%;
+  }
+  .title {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    display: block;
+    font-weight: 600;
+  }
+
+  .price {
+    color: rgb(227, 106, 0);
+    font-size: 1.6rem;
+    font-weight: bold;
+    /* margin-right: 1vw; */
+  }
+
+  .amount {
+    font-size: 1.4rem;
+    border: 1px solid #808080ce;
+    border-radius: 5px;
+    padding: 0 0.8rem;
+  }
+
+  .change-amount button {
+    border-radius: 9px;
+    font-size: 2.5rem;
+    padding: 0rem 1.5rem;
+    background-color: #fff;
+    color: #8a2b06;
+    border: 1px solid #8a2b06;
+  }
+}
