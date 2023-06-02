@@ -32,6 +32,8 @@ Users should be able to:
 
 - ![Desktop design](./screenshots/desktop-design.png)
 - ![Mobile design](./screenshots/mobile-design.png)
+- ![Cart desktop design](./screenshots/cart-desktop-design.png)
+- ![Cart mobile design](./screenshots/cart-mobile-design.png)
 
 ### Links
 
