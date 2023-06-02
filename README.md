@@ -34,6 +34,7 @@ Users should be able to:
 - ![Mobile design](./screenshots/mobile-design.png)
 - ![Cart desktop design](./screenshots/cart-desktop-design.png)
 - ![Cart mobile design](./screenshots/cart-mobile-design.png)
+- ![Spinners loading](./screenshots/spinners-loading.png)
 
 ### Links
 
@@ -47,6 +48,7 @@ Users should be able to:
 - React library.
 - JSX syntax.
 - CSS module.
+- Pure CSS Loaders with [loading.io](https://loading.io/)
 - Firebase database
 
 ### What I learned
