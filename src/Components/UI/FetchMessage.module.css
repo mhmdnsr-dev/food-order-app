@@ -1,0 +1,16 @@
+.error-msg {
+  color: #8a2b06;
+  text-align: center;
+  font-size: 3rem;
+  /* margin: 10rem 0; */
+}
+.error-msg button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #8a2b06;
+  font-size: 2.2rem;
+  font-weight: bold;
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  margin-top: 1rem;
+}
