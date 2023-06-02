@@ -82,6 +82,7 @@
   justify-content: space-between;
   margin-bottom: 1rem;
   padding: 1rem;
+  gap: 1rem;
 }
 
 .order-section .total-amount {
@@ -96,7 +97,7 @@
   font-size: 1.6rem;
   padding: 1.5rem 2rem;
   border-radius: 20px;
-  margin-left: 1vw;
+  margin-left: 3vw;
   cursor: pointer;
 }
 
