@@ -67,7 +67,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [react.dev websit](https://react.dev)
+- [React](https://react.dev)
 - [MDN](https://developer.mozilla.org/en-US/)
 - [styled-components](https://styled-components.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
